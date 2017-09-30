@@ -1,1 +1,1 @@
-# Documentação das configurações realizadas no laboratório
+# Configurações realizadas no laboratório
